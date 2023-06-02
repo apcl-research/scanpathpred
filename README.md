@@ -74,4 +74,4 @@ CUDA_DEVICE_ORDER='PCI_BUS_ID' CUDA_VISIBLE_DEVICES='3' OMP_NUM_THREADS=4 time t
 ```
 ### Step 4: Single Metrics
 
-The way to compute metrics for single inference is same as the the multi experiment, by having a single folder in the predictions directory. Please refer to [Metrics](### Step 2: Metrics) above.
+The way to compute metrics for single inference is same as the the multi experiment, by having a single folder in the predictions directory. Please refer to [Metrics](# Step 2: Metrics) above.
