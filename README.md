@@ -1,6 +1,6 @@
 # Replication Package for "Modeling Programmer Attention as Scanpath Prediction" under reviw at ASE-NIER 2023
 
-##Step 0 for all options: Create the dataset for experiment(s) at custom scan length 'n' using series of scripts in /data folder
+## Step 0 for all options: Create the dataset for experiment(s) at custom scan length 'n' using series of scripts in /data folder
 First, make an empty directory called "eyesum" inside the data directory and run the following script from the data directory:
 ```
 python3 0_dataprep.py
